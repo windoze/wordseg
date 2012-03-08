@@ -1,0 +1,6 @@
+wordseg_wrap.cxx
+_wordseg.so
+wordseg.py
+*.pyc
+*.pyo
+*.o

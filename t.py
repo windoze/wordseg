@@ -9,6 +9,7 @@ for l in open("data/p.txt"):
 	l=l.strip()
 	if len(l)>0:
 		b=s.segment(l,1,0)
-		print l
+		print l, " => ",
 		for i in b:
-			print i
+			print i,
+		print
