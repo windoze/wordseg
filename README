@@ -19,3 +19,6 @@ TODO:
 2. Latin transformation should be configurable, this is not priority as I'm using this lib in a search engine :-)
 3. CJK names, this is a major lack
 4. CJK numbers, well, low priority
+
+
+Thanks to ntrifunovic@sf.net and his/her very easy-to-use UTF8CPP(http://utfcpp.sourceforge.net/) project; also thanks to C++ standard committee for their slow-and-buggy Unicode I/O support in STL.
